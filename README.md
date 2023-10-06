@@ -1,1 +1,1 @@
-A repositor for all the projects I work on. Mostly keyboards!
+A repository for all the projects I work on. Mostly keyboards!
